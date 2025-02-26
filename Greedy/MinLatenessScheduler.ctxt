@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MinLatenessScheduler
+comment1.params=jobs
+comment1.target=MinLatenessScheduler(java.util.List)
+comment2.params=
+comment2.target=int\ minLatenessSchedule()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

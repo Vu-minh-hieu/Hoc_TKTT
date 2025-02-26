@@ -1,0 +1,11 @@
+1000,Vu Minh,Hieu,29/12/2005,Bac Giang
+1003,Nguyen Van,Hai,02/05/2005,Ha Noi
+1008,Tran Huy,Hoang,01/11/2005,Thai Binh
+1004,Vu Duy,An,23/09/2005,Quang Ninh
+1007,Do Trung,Tu,06/02/2005,Bac Ninh
+1010,Nguyen Minh,Tam,17/05/2005,Thai Nguyen
+1002,Ta Minh,Bao,25/10/2005,Hai Phong
+1005,Tran Hoang,Duc,21/07/2005,Ha Noi
+1006,Vu Phuong,Thao,21/08/2005,Bac Giang
+1009,Tran Minh,Anh,07/08/2005,Bac Ninh
+1001,Nguyen Thi,Linh,04/02/2005,Thai Nguyen
