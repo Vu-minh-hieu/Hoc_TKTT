@@ -2,6 +2,12 @@
 comment0.target=menuSV
 comment1.params=
 comment1.target=menuSV()
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3
+comment2.params=masv
+comment2.target=Student\ getsv(java.lang.String)
+comment3.params=
+comment3.target=DSSV\ getdssv()
+comment4.params=ky
+comment4.target=double\ TKHKLop(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

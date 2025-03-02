@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mon
+comment1.params=tenMon\ soTC\ ky
+comment1.target=Mon(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ tenMon()
+comment3.params=
+comment3.target=int\ soTC()
+comment4.params=
+comment4.target=int\ kyThu()
+comment5.params=other
+comment5.target=int\ compareTo(Mon)
+numComments=6

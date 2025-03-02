@@ -1,13 +1,15 @@
 #BlueJ class context
-comment0.target=QlySV
+comment0.target=DSSV
 comment1.params=
-comment1.target=QlySV()
+comment1.target=DSSV()
 comment2.params=student
 comment2.target=void\ addSV(Student)
 comment3.params=msv
 comment3.target=void\ delSV(java.lang.String)
 comment4.params=msv
-comment4.target=void\ getSV(java.lang.String)
+comment4.target=Student\ getSV(java.lang.String)
 comment5.params=
-comment5.target=java.util.List\ getAllSV()
-numComments=6
+comment5.target=ST\ getDSSV()
+comment6.params=
+comment6.target=java.util.List\ getAllSV()
+numComments=7
