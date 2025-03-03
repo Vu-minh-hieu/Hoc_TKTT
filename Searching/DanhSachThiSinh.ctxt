@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DanhSachThiSinh
+comment1.params=
+comment1.target=DanhSachThiSinh()
+comment2.params=thiSinh
+comment2.target=void\ addThiSinh(ThiSinh)
+comment3.params=thiSinh\ mon\ diem
+comment3.target=void\ add(ThiSinh,\ java.lang.String,\ float)
+comment4.params=thiSinh
+comment4.target=void\ getDiemThiSinh(ThiSinh)
+comment5.params=
+comment5.target=java.util.List\ getAllSV()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

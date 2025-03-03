@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileFrequencyIndex
+comment1.params=
+comment1.target=FileFrequencyIndex()
+comment2.params=file
+comment2.target=void\ addFile(java.lang.String)
+comment3.params=word\ file
+comment3.target=void\ put(java.lang.String,\ java.lang.String)
+comment4.params=word
+comment4.target=void\ getIndex(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

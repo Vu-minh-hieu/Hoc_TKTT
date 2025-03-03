@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ThiSinh
+comment1.params=hoDem\ ten\ ngaySinh\ dtbcpt
+comment1.target=ThiSinh(java.lang.String,\ java.lang.String,\ VietDate,\ float)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=ts
+comment2.target=ThiSinh(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ hoDem()
+comment4.params=
+comment4.target=java.lang.String\ ten()
+comment5.params=
+comment5.target=VietDate\ ngaySinh()
+comment6.params=
+comment6.target=float\ dtbcpt()
+comment7.params=
+comment7.target=int\ hashCode()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=other
+comment9.target=int\ compareTo(ThiSinh)
+numComments=11

@@ -24,11 +24,11 @@ public class Student implements Comparable<Student> {
         if (a.length < 5) {
             throw new IllegalArgumentException("Dữ liệu không hợp lệ: " + student);
         }
-        this.msv = a[0];
-        this.hoDem = a[1];
-        this.ten = a[2];
-        this.ngaySinh = new VietDate(a[3]);
-        this.que = a[4];
+        this.msv = a[0].trim();
+        this.hoDem = a[1].trim();
+        this.ten = a[2].trim();
+        this.ngaySinh = new VietDate(a[3].trim());
+        this.que = a[4].trim();
         bangDiem = new ST<>();
     }
 
@@ -105,11 +105,11 @@ public class Student implements Comparable<Student> {
     public static class hoTenOrder implements Comparator<Student> {
         @Override
         public int compare(Student v, Student w) {
-            int cmp = v.ten.compareToIgnoreCase(w.ten);
-            if (cmp == 0) {
-                return v.hoDem.compareToIgnoreCase(w.hoDem);
-            }
-            return cmp;
+        int cmp = v.ten.compareToIgnoreCase(w.ten);
+        if (cmp == 0) {
+            return v.hoDem.compareToIgnoreCase(w.hoDem);
+        }
+        return cmp;
         }
     }
     
