@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=numorder\ profit\ weight
+comment1.target=Item(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getNumorder()
+comment3.params=
+comment3.target=int\ getProfit()
+comment4.params=
+comment4.target=int\ getWeight()
+comment5.params=
+comment5.target=boolean\ isTake()
+comment6.params=take
+comment6.target=void\ setTake(boolean)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
