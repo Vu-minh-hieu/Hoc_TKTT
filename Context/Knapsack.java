@@ -69,7 +69,7 @@ public class Knapsack
     }
     
     //return items can take
-    public List<Item> getTakedItem() {
+    public List<Item> getTakenItem() {
         List<Item> list = new ArrayList<>();
         for (Item item : items) {
             if (item.isTake()) {
@@ -112,7 +112,7 @@ public class Knapsack
         
         // In kết quả
         System.out.println("Item\tProfit\tWeight\tTake");
-        for (Item c : solver.getTakedItem()) {
+        for (Item c : solver.getTakenItem()) {
             System.out.println(c);
         }
         System.out.println("Max Profit: " + solver.getMaxProfit());
