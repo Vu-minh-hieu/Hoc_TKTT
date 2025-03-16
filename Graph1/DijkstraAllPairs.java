@@ -135,7 +135,7 @@ public class DijkstraAllPairs {
      * @throws IllegalArgumentException unless {@code 0 <= v < V}
      */
     public boolean hasPathTo(int i, int v) {
-        validateVertex(v);
+        validateVertex(i);
         validateVertex(v);
         return distTo[i][v] < Double.POSITIVE_INFINITY;
     }
